@@ -37,7 +37,7 @@ python sweep.py launch --data_dir=Your_data_dir\
 ```
 
 ### Citation
-```sh
+```plaintext
 @inproceedings{li2023cross,
   title={Cross contrasting feature perturbation for domain generalization},
   author={Li, Chenming and Zhang, Daoan and Huang, Wenjian and Zhang, Jianguo},

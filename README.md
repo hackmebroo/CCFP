@@ -12,3 +12,6 @@ Note that this project is built upon [DomainBed@3fe9d7](https://github.com/faceb
 
 ```sh
 pip install -r requirements.txt
+
+### Download the datasets:
+
